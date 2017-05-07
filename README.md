@@ -17,7 +17,7 @@ spark_parser.py | parser: step 1| Peng Wu |
 spark_mapinput.py | parser: step 2 | Peng Wu |
 spark_mapaddrs.py | parser: step 3 | Peng Wu |
 
-CSV Files | Format
+Output CSV Files | Format
 ------ | ------
 transactions.csv  | tx_hash, tx_value, timestamp, num_inputs, num_outputs
 outputs.csv  | tx_hash, output_index, output_value, output_address
